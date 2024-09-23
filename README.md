@@ -41,7 +41,7 @@ This repository provides a Docker-based installation for the bmm-simulate packag
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/bmm-simulate.git
+git clone https://github.com/seidels/bmm-simulate.git
 cd bmm-simulate
 ```
 
